@@ -1,0 +1,173 @@
+{
+  "users": [
+    {
+      "id": 231,
+      "role": "owner",
+      "statistics": [],
+      "email": "owner@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Bob",
+        "age": 23,
+        "city": "Kyiv",
+        "job": "further"
+      }
+    },
+    {
+      "id": 788,
+      "role": "admin",
+      "statistics": [],
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Jack",
+        "age": 35,
+        "city": "Kyiv",
+        "job": "oppose"
+      }
+    },
+    {
+      "id": 328,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Michael",
+        "age": 33,
+        "city": "Kyiv",
+        "job": "length"
+      }
+    },
+    {
+      "id": 132,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Jeremy",
+        "age": 40,
+        "city": "Kyiv",
+        "job": "deserve"
+      }
+    },
+    {
+      "id": 212,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "John",
+        "age": 20,
+        "city": "Kyiv",
+        "job": "several"
+      }
+    },
+    {
+      "id": 772,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Ken",
+        "age": 36,
+        "city": "Kyiv",
+        "job": "ordinary"
+      }
+    },
+    {
+      "id": 404,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "George",
+        "age": 28,
+        "city": "Kyiv",
+        "job": "picture"
+      }
+    },
+    {
+      "id": 476,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Rob",
+        "age": 50,
+        "city": "Kyiv",
+        "job": "inquire"
+      }
+    },
+    {
+      "id": 850,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Fred",
+        "age": 36,
+        "city": "Kyiv",
+        "job": "fortune"
+      }
+    },
+    {
+      "id": 468,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Jason",
+        "age": 23,
+        "city": "Kyiv",
+        "job": "season"
+      }
+    },
+    {
+      "id": 763,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "David",
+        "age": 31,
+        "city": "Kyiv",
+        "job": "stocking"
+      }
+    },
+    {
+      "id": 588,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Lenny",
+        "age": 34,
+        "city": "Kyiv",
+        "job": "further"
+      }
+    },
+    {
+      "id": 677,
+      "role": "user",
+      "statistics": [],
+      "email": "test@gmail.com",
+      "password": "12345",
+      "profile": {
+        "name": "Stan",
+        "age": 42,
+        "city": "Kyiv",
+        "job": "beside"
+      }
+    }
+  ]
+}
